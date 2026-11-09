@@ -1,10 +1,10 @@
 # Suivi de personnage WoW Forever : Astrus Blackthorne
 
-_Généré le 2026-11-09 17:19 UTC._
+_Généré le 2026-11-09 17:22 UTC._
 
 ## Fraîcheur des données
 
-- État à la génération de ce fichier : **données fraîches** (relevé vieux de 11 min)
+- État à la génération de ce fichier : **données fraîches** (relevé vieux de 14 min)
 - Dernier relevé valide : 2026-11-09 17:08 UTC (source : armory/camoufox, synchronisation réelle, validation : partial)
 - Dernière présence affichée par l'armurerie : 2026-11-08 17:56 UTC
 - Ce fichier est un instantané : comparer « Généré le » à la date du jour. S'il date de plus de quelques heures, les données peuvent être anciennes.
