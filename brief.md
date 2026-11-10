@@ -1,11 +1,11 @@
 # Suivi de personnage WoW Forever : Astrus Blackthorne
 
-_Généré le 2026-11-10 17:16 UTC._
+_Généré le 2026-11-10 17:17 UTC._
 
 ## Fraîcheur des données
 
-- État à la génération de ce fichier : **données fraîches** (relevé vieux de 38 min)
-- Dernier relevé valide : 2026-11-10 16:38 UTC (source : armory/camoufox, synchronisation réelle, validation : partial)
+- État à la génération de ce fichier : **données fraîches** (relevé vieux de 0 min)
+- Dernier relevé valide : 2026-11-10 17:17 UTC (source : armory/camoufox, synchronisation réelle, validation : partial)
 - Dernière présence affichée par l'armurerie : 2026-11-10 16:21 UTC
 - Ce fichier est un instantané : comparer « Généré le » à la date du jour. S'il date de plus de quelques heures, les données peuvent être anciennes.
 - L'armurerie ne se met à jour qu'après une déconnexion du personnage : un retard sur le jeu est possible.
@@ -58,6 +58,7 @@ _Généré le 2026-11-10 17:16 UTC._
 
 ## Historique des relevés
 
+- 2026-11-10 17:17 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 16:38 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 16:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 15:08 UTC : niveau 10 (synchro, partial)
@@ -72,7 +73,6 @@ _Généré le 2026-11-10 17:16 UTC._
 - 2026-11-10 06:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 05:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 04:08 UTC : niveau 10 (synchro, partial)
-- 2026-11-10 03:08 UTC : niveau 10 (synchro, partial)
 
 ## Informations absentes de la source
 
