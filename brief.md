@@ -1,12 +1,12 @@
 # Suivi de personnage WoW Forever : Astrus Blackthorne
 
-_Généré le 2026-11-10 16:32 UTC._
+_Généré le 2026-11-10 16:38 UTC._
 
 ## Fraîcheur des données
 
-- État à la génération de ce fichier : **données fraîches** (relevé vieux de 23 min)
-- Dernier relevé valide : 2026-11-10 16:08 UTC (source : armory/camoufox, synchronisation réelle, validation : partial)
-- Dernière présence affichée par l'armurerie : 2026-11-08 17:56 UTC
+- État à la génération de ce fichier : **données fraîches** (relevé vieux de 0 min)
+- Dernier relevé valide : 2026-11-10 16:38 UTC (source : armory/camoufox, synchronisation réelle, validation : partial)
+- Dernière présence affichée par l'armurerie : 2026-11-10 16:21 UTC
 - Ce fichier est un instantané : comparer « Généré le » à la date du jour. S'il date de plus de quelques heures, les données peuvent être anciennes.
 - L'armurerie ne se met à jour qu'après une déconnexion du personnage : un retard sur le jeu est possible.
 
@@ -14,16 +14,16 @@ _Généré le 2026-11-10 16:32 UTC._
 
 - Astrus Blackthorne : niveau 10 Tauren Hunter (horde)
 - Royaume : EU roleplay
-- Points de talent dépensés : 0
+- Points de talent dépensés : 1
 
 ## Métiers
 
 | Métier | Niveau |
 |---|---|
-| Leatherworking | 31/75 |
-| Skinning | 73/75 |
-| Cooking | 10/75 |
-| Fishing | 20/75 |
+| Leatherworking | 48/75 |
+| Skinning | 75/150 |
+| Cooking | 59/75 |
+| Fishing | 75/75 |
 
 ## Équipement
 
@@ -38,15 +38,27 @@ _Généré le 2026-11-10 16:32 UTC._
 | legs | Handstitched Leather Pants | 10 |
 | feet | Handstitched Leather Boots | 8 |
 | main_hand | Scalping Tomahawk of Stamina | 11 |
-| ranged | Rust-covered Blunderbuss | 7 |
+| ranged | Snarlsnout Shooter | 12 |
 | ammo | Light Shot | 5 |
 
 ## Derniers changements détectés
 
-Aucun changement détecté depuis le relevé précédent (l'armurerie peut ne pas être actualisée).
+- 2026-11-10 16:38 UTC : Fishing : 20 → 75 (+55) ★
+- 2026-11-10 16:38 UTC : Cooking : 10 → 59 (+49) ★
+- 2026-11-10 16:38 UTC : Skinning : plafond 75 → 150 ★
+- 2026-11-10 16:38 UTC : Skinning : 73 → 75 (+2) ★
+- 2026-11-10 16:38 UTC : Leatherworking : 31 → 48 (+17) ★
+- 2026-11-10 16:38 UTC : Arbre Beast Mastery : 1 point(s) ★
+- 2026-11-10 16:38 UTC : Points de talent dépensés : 0 → 1 ★
+- 2026-11-10 16:38 UTC : ranged : Rust-covered Blunderbuss → Snarlsnout Shooter ★
+- 2026-11-10 16:38 UTC : Handstitched Leather Boots : enchantement aucun → Stamina +1 and Armor +8 ★
+- 2026-11-10 16:38 UTC : Handstitched Leather Pants : enchantement aucun → Stamina +1 and Armor +8 ★
+- 2026-11-10 16:38 UTC : Double-layered Gloves : enchantement aucun → Stamina +1 and Armor +8 ★
+- 2026-11-10 16:38 UTC : Handstitched Leather Vest : enchantement Stamina +2 → Stamina +1 and Armor +8 ★
 
 ## Historique des relevés
 
+- 2026-11-10 16:38 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 16:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 15:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 14:08 UTC : niveau 10 (synchro, partial)
@@ -61,7 +73,6 @@ Aucun changement détecté depuis le relevé précédent (l'armurerie peut ne pa
 - 2026-11-10 05:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 04:08 UTC : niveau 10 (synchro, partial)
 - 2026-11-10 03:08 UTC : niveau 10 (synchro, partial)
-- 2026-11-10 02:08 UTC : niveau 10 (synchro, partial)
 
 ## Informations absentes de la source
 
@@ -69,8 +80,7 @@ Ne pas les déduire : `identity.guild`, `identity.avatarUrl`, `equipment.*.itemI
 
 ## Recommandations fondées sur les données
 
-- Aucun point de talent dépensé au niveau 10 : vérifier en jeu si un point est disponible et choisir une spécialisation. _(fondé sur : identity.level=10, talents.totalPointsSpent=0 ; source : armurerie)_
-- Skinning 73/75 : proche du plafond, prévoir le palier suivant. _(fondé sur : professions.Skinning=73/75 ; source : armurerie)_
+Aucune.
 
 ## Notes
 
