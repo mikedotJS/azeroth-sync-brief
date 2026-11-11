@@ -1,18 +1,18 @@
 # Suivi de personnage WoW Forever : Astrus Blackthorne
 
-_Généré le 2026-11-11 16:01 UTC._
+_Généré le 2026-11-11 16:31 UTC._
 
 ## Fraîcheur des données
 
 - État à la génération de ce fichier : **données fraîches** (relevé vieux de 0 min)
-- Dernier relevé valide : 2026-11-11 16:00 UTC (source : armory/camoufox, synchronisation réelle, validation : valid)
-- Dernière présence affichée par l'armurerie : 2026-11-11 00:31 UTC
+- Dernier relevé valide : 2026-11-11 16:31 UTC (source : armory/camoufox, synchronisation réelle, validation : valid)
+- Dernière présence affichée par l'armurerie : 2026-11-11 16:11 UTC
 - Ce fichier est un instantané : comparer « Généré le » à la date du jour. S'il date de plus de quelques heures, les données peuvent être anciennes.
 - L'armurerie ne se met à jour qu'après une déconnexion du personnage : un retard sur le jeu est possible.
 
 ## Personnage
 
-- Astrus Blackthorne : niveau 13 Tauren Hunter (horde)
+- Astrus Blackthorne : niveau 14 Tauren Hunter (horde)
 - Royaume : EU roleplay
 - Points de talent dépensés : 4
 
@@ -20,8 +20,8 @@ _Généré le 2026-11-11 16:01 UTC._
 
 | Métier | Niveau |
 |---|---|
-| Leatherworking | 57/75 |
-| Skinning | 100/150 |
+| Leatherworking | 60/75 |
+| Skinning | 107/150 |
 | Cooking | 89/150 |
 | Fishing | 75/150 |
 
@@ -37,12 +37,18 @@ _Généré le 2026-11-11 16:01 UTC._
 | waist | Fine Leather Belt | 16 |
 | legs | Kodo Hunter's Leggings | 15 |
 | feet | Embossed Leather Boots | 15 |
-| main_hand | Compact Fighting Knife | 12 |
-| ranged | Snarlsnout Shooter | 12 |
-| ammo | Light Shot | 5 |
+| main_hand | Dwarven Hatchet of the Falcon | 15 |
+| ranged | Barbaric Crossbow | 18 |
+| ammo | Heavy Shot | 15 |
 
 ## Derniers changements détectés
 
+- 2026-11-11 16:31 UTC : Skinning : 100 → 107 (+7) ★
+- 2026-11-11 16:31 UTC : Leatherworking : 57 → 60 (+3) ★
+- 2026-11-11 16:31 UTC : ammo : Light Shot → Heavy Shot ★
+- 2026-11-11 16:31 UTC : ranged : Snarlsnout Shooter → Barbaric Crossbow ★
+- 2026-11-11 16:31 UTC : main_hand : Compact Fighting Knife → Dwarven Hatchet of the Falcon ★
+- 2026-11-11 16:31 UTC : Niveau 13 → 14 ★
 - 2026-11-11 01:01 UTC : Fishing : plafond 75 → 150 ★
 - 2026-11-11 01:01 UTC : Cooking : plafond 75 → 150 ★
 - 2026-11-11 01:01 UTC : Cooking : 59 → 89 (+30) ★
@@ -57,15 +63,10 @@ _Généré le 2026-11-11 16:01 UTC._
 - 2026-11-11 01:01 UTC : hands : Double-layered Gloves → Embossed Leather Gloves ★
 - 2026-11-11 01:01 UTC : wrist : Plains Hunter Wristguards → Light Leather Bracers ★
 - 2026-11-11 01:01 UTC : Handstitched Leather Vest : enchantement Stamina +1 and Armor +8 → Stamina +3 ★
-- 2026-11-11 01:01 UTC : back : Handstitched Leather Cloak → Embossed Leather Cloak ★
-- 2026-11-11 01:01 UTC : Niveau 11 → 13 ★
-- 2026-11-10 17:47 UTC : Skinning : 75 → 77 (+2) ★
-- 2026-11-10 17:47 UTC : main_hand : Scalping Tomahawk of Stamina → Compact Fighting Knife ★
-- 2026-11-10 17:47 UTC : Niveau 10 → 11 ★
-- 2026-11-10 16:38 UTC : Fishing : 20 → 75 (+55) ★
 
 ## Historique des relevés
 
+- 2026-11-11 16:31 UTC : niveau 14 (synchro, valid)
 - 2026-11-11 16:00 UTC : niveau 13 (synchro, valid)
 - 2026-11-11 15:29 UTC : niveau 13 (synchro, valid)
 - 2026-11-11 14:58 UTC : niveau 13 (synchro, valid)
@@ -80,7 +81,6 @@ _Généré le 2026-11-11 16:01 UTC._
 - 2026-11-11 10:19 UTC : niveau 13 (synchro, valid)
 - 2026-11-11 09:49 UTC : niveau 13 (synchro, valid)
 - 2026-11-11 09:17 UTC : niveau 13 (synchro, valid)
-- 2026-11-11 08:46 UTC : niveau 13 (synchro, valid)
 
 ## Informations absentes de la source
 
