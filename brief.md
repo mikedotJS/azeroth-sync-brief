@@ -1,66 +1,72 @@
 # Suivi de personnage WoW Forever : Astrus Blackthorne
 
-_Généré le 2026-11-11 00:30 UTC._
+_Généré le 2026-11-11 01:01 UTC._
 
 ## Fraîcheur des données
 
 - État à la génération de ce fichier : **données fraîches** (relevé vieux de 0 min)
-- Dernier relevé valide : 2026-11-11 00:30 UTC (source : armory/camoufox, synchronisation réelle, validation : valid)
-- Dernière présence affichée par l'armurerie : 2026-11-10 17:16 UTC
+- Dernier relevé valide : 2026-11-11 01:01 UTC (source : armory/camoufox, synchronisation réelle, validation : valid)
+- Dernière présence affichée par l'armurerie : 2026-11-11 00:31 UTC
 - Ce fichier est un instantané : comparer « Généré le » à la date du jour. S'il date de plus de quelques heures, les données peuvent être anciennes.
 - L'armurerie ne se met à jour qu'après une déconnexion du personnage : un retard sur le jeu est possible.
 
 ## Personnage
 
-- Astrus Blackthorne : niveau 11 Tauren Hunter (horde)
+- Astrus Blackthorne : niveau 13 Tauren Hunter (horde)
 - Royaume : EU roleplay
-- Points de talent dépensés : 1
+- Points de talent dépensés : 4
 
 ## Métiers
 
 | Métier | Niveau |
 |---|---|
-| Leatherworking | 48/75 |
-| Skinning | 77/150 |
-| Cooking | 59/75 |
-| Fishing | 75/75 |
+| Leatherworking | 57/75 |
+| Skinning | 100/150 |
+| Cooking | 89/150 |
+| Fishing | 75/150 |
 
 ## Équipement
 
 | Emplacement | Objet | iLvl |
 |---|---|---|
-| back | Handstitched Leather Cloak | 9 |
+| back | Embossed Leather Cloak | 13 |
 | chest | Handstitched Leather Vest | 10 |
 | shirt | Trapper's Shirt | 1 |
-| wrist | Plains Hunter Wristguards | 10 |
-| hands | Double-layered Gloves | 8 |
-| waist | Handstitched Leather Belt | 10 |
-| legs | Handstitched Leather Pants | 10 |
-| feet | Handstitched Leather Boots | 8 |
+| wrist | Light Leather Bracers | 14 |
+| hands | Embossed Leather Gloves | 13 |
+| waist | Fine Leather Belt | 16 |
+| legs | Kodo Hunter's Leggings | 15 |
+| feet | Embossed Leather Boots | 15 |
 | main_hand | Compact Fighting Knife | 12 |
 | ranged | Snarlsnout Shooter | 12 |
 | ammo | Light Shot | 5 |
 
 ## Derniers changements détectés
 
+- 2026-11-11 01:01 UTC : Fishing : plafond 75 → 150 ★
+- 2026-11-11 01:01 UTC : Cooking : plafond 75 → 150 ★
+- 2026-11-11 01:01 UTC : Cooking : 59 → 89 (+30) ★
+- 2026-11-11 01:01 UTC : Skinning : 77 → 100 (+23) ★
+- 2026-11-11 01:01 UTC : Leatherworking : 48 → 57 (+9) ★
+- 2026-11-11 01:01 UTC : Talent Endurance Training (Beast Mastery) : rang 1 → 3 ★
+- 2026-11-11 01:01 UTC : Talent Deadly Aspects (Beast Mastery) : rang 0 → 1 ★
+- 2026-11-11 01:01 UTC : Points de talent dépensés : 1 → 4 ★
+- 2026-11-11 01:01 UTC : feet : Handstitched Leather Boots → Embossed Leather Boots ★
+- 2026-11-11 01:01 UTC : legs : Handstitched Leather Pants → Kodo Hunter's Leggings ★
+- 2026-11-11 01:01 UTC : waist : Handstitched Leather Belt → Fine Leather Belt ★
+- 2026-11-11 01:01 UTC : hands : Double-layered Gloves → Embossed Leather Gloves ★
+- 2026-11-11 01:01 UTC : wrist : Plains Hunter Wristguards → Light Leather Bracers ★
+- 2026-11-11 01:01 UTC : Handstitched Leather Vest : enchantement Stamina +1 and Armor +8 → Stamina +3 ★
+- 2026-11-11 01:01 UTC : back : Handstitched Leather Cloak → Embossed Leather Cloak ★
+- 2026-11-11 01:01 UTC : Niveau 11 → 13 ★
 - 2026-11-10 17:47 UTC : Skinning : 75 → 77 (+2) ★
 - 2026-11-10 17:47 UTC : main_hand : Scalping Tomahawk of Stamina → Compact Fighting Knife ★
 - 2026-11-10 17:47 UTC : Niveau 10 → 11 ★
 - 2026-11-10 16:38 UTC : Fishing : 20 → 75 (+55) ★
-- 2026-11-10 16:38 UTC : Cooking : 10 → 59 (+49) ★
-- 2026-11-10 16:38 UTC : Skinning : plafond 75 → 150 ★
-- 2026-11-10 16:38 UTC : Skinning : 73 → 75 (+2) ★
-- 2026-11-10 16:38 UTC : Leatherworking : 31 → 48 (+17) ★
-- 2026-11-10 16:38 UTC : Arbre Beast Mastery : 1 point(s) ★
-- 2026-11-10 16:38 UTC : Points de talent dépensés : 0 → 1 ★
-- 2026-11-10 16:38 UTC : ranged : Rust-covered Blunderbuss → Snarlsnout Shooter ★
-- 2026-11-10 16:38 UTC : Handstitched Leather Boots : enchantement aucun → Stamina +1 and Armor +8 ★
-- 2026-11-10 16:38 UTC : Handstitched Leather Pants : enchantement aucun → Stamina +1 and Armor +8 ★
-- 2026-11-10 16:38 UTC : Double-layered Gloves : enchantement aucun → Stamina +1 and Armor +8 ★
-- 2026-11-10 16:38 UTC : Handstitched Leather Vest : enchantement Stamina +2 → Stamina +1 and Armor +8 ★
 
 ## Historique des relevés
 
+- 2026-11-11 01:01 UTC : niveau 13 (synchro, valid)
 - 2026-11-11 00:30 UTC : niveau 11 (synchro, valid)
 - 2026-11-10 23:59 UTC : niveau 11 (synchro, valid)
 - 2026-11-10 23:28 UTC : niveau 11 (synchro, valid)
@@ -75,7 +81,6 @@ _Généré le 2026-11-11 00:30 UTC._
 - 2026-11-10 18:49 UTC : niveau 11 (synchro, valid)
 - 2026-11-10 18:18 UTC : niveau 11 (synchro, valid)
 - 2026-11-10 17:47 UTC : niveau 11 (synchro, valid)
-- 2026-11-10 17:17 UTC : niveau 10 (synchro, partial)
 
 ## Informations absentes de la source
 
