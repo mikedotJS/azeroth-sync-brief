@@ -1,20 +1,20 @@
 # Suivi de personnage WoW Forever : Astrus Blackthorne
 
-_Généré le 2026-11-13 15:02 UTC._
+_Généré le 2026-11-13 15:33 UTC._
 
 ## Fraîcheur des données
 
 - État à la génération de ce fichier : **données fraîches** (relevé vieux de 0 min)
-- Dernier relevé valide : 2026-11-13 15:02 UTC (source : armory/camoufox, synchronisation réelle, validation : valid)
-- Dernière présence affichée par l'armurerie : 2026-11-11 16:11 UTC
+- Dernier relevé valide : 2026-11-13 15:33 UTC (source : armory/camoufox, synchronisation réelle, validation : valid)
+- Dernière présence affichée par l'armurerie : 2026-11-13 15:22 UTC
 - Ce fichier est un instantané : comparer « Généré le » à la date du jour. S'il date de plus de quelques heures, les données peuvent être anciennes.
 - L'armurerie ne se met à jour qu'après une déconnexion du personnage : un retard sur le jeu est possible.
 
 ## Personnage
 
-- Astrus Blackthorne : niveau 14 Tauren Hunter (horde)
+- Astrus Blackthorne : niveau 15 Tauren Hunter (horde)
 - Royaume : EU roleplay
-- Points de talent dépensés : 4
+- Points de talent dépensés : 6
 
 ## Métiers
 
@@ -43,6 +43,9 @@ _Généré le 2026-11-13 15:02 UTC._
 
 ## Derniers changements détectés
 
+- 2026-11-13 15:33 UTC : Talent Deadly Aspects (Beast Mastery) : rang 1 → 3 ★
+- 2026-11-13 15:33 UTC : Points de talent dépensés : 4 → 6 ★
+- 2026-11-13 15:33 UTC : Niveau 14 → 15 ★
 - 2026-11-11 16:31 UTC : Skinning : 100 → 107 (+7) ★
 - 2026-11-11 16:31 UTC : Leatherworking : 57 → 60 (+3) ★
 - 2026-11-11 16:31 UTC : ammo : Light Shot → Heavy Shot ★
@@ -60,12 +63,10 @@ _Généré le 2026-11-13 15:02 UTC._
 - 2026-11-11 01:01 UTC : feet : Handstitched Leather Boots → Embossed Leather Boots ★
 - 2026-11-11 01:01 UTC : legs : Handstitched Leather Pants → Kodo Hunter's Leggings ★
 - 2026-11-11 01:01 UTC : waist : Handstitched Leather Belt → Fine Leather Belt ★
-- 2026-11-11 01:01 UTC : hands : Double-layered Gloves → Embossed Leather Gloves ★
-- 2026-11-11 01:01 UTC : wrist : Plains Hunter Wristguards → Light Leather Bracers ★
-- 2026-11-11 01:01 UTC : Handstitched Leather Vest : enchantement Stamina +1 and Armor +8 → Stamina +3 ★
 
 ## Historique des relevés
 
+- 2026-11-13 15:33 UTC : niveau 15 (synchro, valid)
 - 2026-11-13 15:02 UTC : niveau 14 (synchro, valid)
 - 2026-11-13 14:31 UTC : niveau 14 (synchro, valid)
 - 2026-11-13 14:00 UTC : niveau 14 (synchro, valid)
@@ -80,7 +81,6 @@ _Généré le 2026-11-13 15:02 UTC._
 - 2026-11-13 09:21 UTC : niveau 14 (synchro, valid)
 - 2026-11-13 08:50 UTC : niveau 14 (synchro, valid)
 - 2026-11-13 08:19 UTC : niveau 14 (synchro, valid)
-- 2026-11-13 07:48 UTC : niveau 14 (synchro, valid)
 
 ## Informations absentes de la source
 
